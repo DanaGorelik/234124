@@ -1,0 +1,3 @@
+C:/Dana/technion/1st year/sem B/int. to systems programming/ex3/cmake-build-debug/CMakeFiles/ex3.dir
+C:/Dana/technion/1st year/sem B/int. to systems programming/ex3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Dana/technion/1st year/sem B/int. to systems programming/ex3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
