@@ -1,0 +1,60 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Dana/technion/sem B/int. to systems programming/ex1/q2_my_coder/RLEList.c
+RLEList.h
+C:/Dana/technion/sem B/int. to systems programming/ex1/q2_my_coder/RLEList.h
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+assert.h
+-
+RLEUnitTests/test_utilities.h
+C:/Dana/technion/sem B/int. to systems programming/ex1/q2_my_coder/RLEUnitTests/test_utilities.h
+
+C:/Dana/technion/sem B/int. to systems programming/ex1/q2_my_coder/RLEList.h
+stdio.h
+-
+stdbool.h
+-
+
+C:/Dana/technion/sem B/int. to systems programming/ex1/q2_my_coder/RLEUnitTests/test_utilities.h
+stdbool.h
+-
+stdio.h
+-
+
+C:/Dana/technion/sem B/int. to systems programming/ex1/q2_my_coder/tool/AsciiArtTool.c
+AsciiArtTool.h
+C:/Dana/technion/sem B/int. to systems programming/ex1/q2_my_coder/tool/AsciiArtTool.h
+stdlib.h
+-
+stdio.h
+-
+
+C:/Dana/technion/sem B/int. to systems programming/ex1/q2_my_coder/tool/AsciiArtTool.h
+../RLEList.h
+C:/Dana/technion/sem B/int. to systems programming/ex1/q2_my_coder/RLEList.h
+
+C:/Dana/technion/sem B/int. to systems programming/ex1/q2_my_coder/tool/main.c
+AsciiArtTool.h
+C:/Dana/technion/sem B/int. to systems programming/ex1/q2_my_coder/tool/AsciiArtTool.h
+stdio.h
+-
+string.h
+-
+
